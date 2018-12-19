@@ -1,0 +1,18 @@
+Transactions
+MoneyMarket 456: Withdrawl not allowed
+
+Print accounts
+Checking[accountID=123, balance=74800, numDeposits=1, numWithdrawls=3, serviceCharge=200]
+MoneyMarket[accountID=456, balance=30000, numDeposits=1, numWithdrawls=1, serviceCharge=75][active=false]
+
+Month end report
+Account ID 123
+Balance is: $746.00
+1 deposits, 3 withdrawls
+Monthly service charge was: $2.00
+Account ID 456
+Balance is: $294.25
+1 deposits, 1 withdrawls
+Monthly service charge was: $5.75
+Money market account is: inactive
+

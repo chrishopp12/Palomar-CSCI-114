@@ -1,0 +1,15 @@
+myWallet contains: [5, 50, 10, 5]
+
+value of myWallet is: $70
+
+now myWallet contains: []
+yourWallet contains: [1, 5, 50, 10, 5]
+
+yourWallet with $5s removed is: [1, 50, 10]
+
+tom has same banknotes in same order as dick: false
+tom has same banknotes in same order as harry: true
+
+w1 is: [1, 20, 50]
+w2 is: [20, 10, 5, 10]
+w3 is: [5, 5, 50, 50, 5, 5]

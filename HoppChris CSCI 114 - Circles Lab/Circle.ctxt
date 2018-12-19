@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rad\ col
+comment0.target=Circle(double,\ java.lang.String)
+comment1.params=
+comment1.target=double\ calcCircumference()
+comment2.params=
+comment2.target=double\ calcArea()
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+numComments=4

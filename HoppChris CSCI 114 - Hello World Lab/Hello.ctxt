@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hello()
+comment0.text=\r\n\ Constructor\ method\ for\ objects\ of\ class\ Hello\r\n
+comment1.params=
+comment1.target=void\ sayHello()
+comment1.text=\r\n\ Example\ method\ that\ sends\ output\ to\ the\ Terminal\ Window\r\n
+numComments=2

@@ -1,0 +1,2 @@
+Honda range remaining: 165.0
+Toyota range remaining: 148.0

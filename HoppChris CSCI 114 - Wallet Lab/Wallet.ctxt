@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wallet()
+comment1.params=a
+comment1.target=Wallet(int[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ value()
+comment4.params=banknote
+comment4.target=void\ add(int)
+comment5.params=donor
+comment5.target=void\ transfer(Wallet)
+comment6.params=banknote
+comment6.target=boolean\ remove(int)
+comment7.params=other
+comment7.target=boolean\ sameBanknotesSameOrder(Wallet)
+comment8.params=w
+comment8.target=Wallet\ removeBanknotePairs(Wallet)
+numComments=9
